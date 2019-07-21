@@ -31,7 +31,7 @@ disqus:
 google_analytics: 
 url: http://rickyreticent.github.io
 enforce_ssl: https://rickyreticent.github.io
-baseurl: ''
+baseurl: 
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
@@ -40,7 +40,7 @@ kramdown:
   syntax_highlighter_opts:
     css_class: highlight
 sass:
-  style: :expanded
+  style: expanded
 plugins:
 - jekyll-sitemap
 - jekyll-feed
