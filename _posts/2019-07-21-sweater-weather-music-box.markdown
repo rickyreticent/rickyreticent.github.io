@@ -11,6 +11,6 @@ Sebagai posting pertama di blog ini, saya hanya akan mengunggah salah satu proje
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/273467751&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-{{ site.url }}/uploads/download.jpg
+![download.jpg](/uploads/download.jpg)
 
 <img src="https://rickyreticent.github.io/uploads/download.jpg">
