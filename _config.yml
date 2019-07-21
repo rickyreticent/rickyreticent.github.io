@@ -47,6 +47,7 @@ plugins:
 - jekyll-seo-tag
 include:
 - _pages
+- _uploads
 exclude:
 - Gemfile
 - Gemfile.lock
