@@ -2,7 +2,6 @@
 title: Introducing Reverie - A ridiculously elegant Jekyll theme
 date: 2019-02-13 00:00:00 Z
 categories:
-- Miscellaneous
 - Jekyll
 layout: post
 ---
@@ -15,22 +14,37 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 
 ## Features overview
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme (Theme Demo)
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- Markdown blogging
-- Elegant typography
-  - Futura PT fonts (The same fonts which has been used on <https://pixar.com>)
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Categorize posts out-of-the box
-- A home widget to show recent GitHub commit
-- RSS Feed
-- In-built sitemap
+* Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
+
+* Fully responsive and mobile optimized base theme (Theme Demo)
+
+* Sass/Coffeescript support using Jekyll 2.0
+
+* Free hosting on your GitHub Pages user site
+
+* Markdown blogging
+
+* Elegant typography
+
+  * Futura PT fonts (The same fonts which has been used on [https://pixar.com](https://pixar.com))
+
+* Syntax highlighting using Pygments
+
+  * [Dracula syntax theme](https://draculatheme.com/) included
+
+* Disqus commenting
+
+* Google Analytics integration
+
+* Fuzzy search across blog posts
+
+* Categorize posts out-of-the box
+
+* A home widget to show recent GitHub commit
+
+* RSS Feed
+
+* In-built sitemap
 
 ## Using Reverie on GitHub Pages
 
@@ -40,13 +54,13 @@ Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename
 
 Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+Your Jekyll blog will often be viewable immediately at [https://yourgithubusername.github.io](https://yourgithubusername.github.io) (if it's not, you can often force it to build by completing step 2)
 
 ### Step 2) Customize and view your site
 
 Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at [https://yourgithubusername.github.io](https://yourgithubusername.github.io) - if not, give it ten minutes as GitHub suggests and it'll appear soon.
 
 ### Step 3) Publish your first blog post
 
@@ -60,28 +74,22 @@ You can categorize your content based on `categories` in Reverie. For this, you 
 
 For adding single category:
 
-```md
-categories: JavaScript
-```
+    categories: JavaScript
 
 For adding multiple categories:
 
-```md
-categories: [PHP, Laravel]
-```
+    categories: [PHP, Laravel]
 
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
+The contegorized content can be shown over this URL: [https://yourgithubusername.github.io/categories/](https://yourgithubusername.github.io/categories/)
 
 ## RSS
 
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/feed).
+The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at [https://yourgithubusername.github.io/feed](https://yourgithubusername.github.io/feed). You can see the example RSS feed over [here](https://www.amitmerchant.com/feed).
 
 ## Sitemap
 
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/sitemap).
+The generated sitemap of your blog can be found at [https://yourgithubusername.github.io/sitemap](https://yourgithubusername.github.io/sitemap). You can see the example sitemap feed over [here](https://www.amitmerchant.com/sitemap).
 
 ## License
 
 MIT
-
-
