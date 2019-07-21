@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Search
-permalink: /search/
+permalink: "/search/"
+layout: page
 ---
 
 <div id="search-container">
