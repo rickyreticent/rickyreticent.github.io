@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Reverie
+name: Ricky Anggoro
 author: Amit Merchant
 description: An elegant Jekyll theme
 avatar: "/reverie/images/reverie.png"
@@ -29,9 +29,12 @@ footer-links:
   playconsole: 
 disqus: 
 google_analytics: 
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
-baseurl: "/reverie"
+#url: http://www.amitmerchant.com/reverie
+url: http://rickyreticent.github.io
+#enforce_ssl: https://www.amitmerchant.com/reverie
+enforce_ssl: https://rickyreticent.github.io
+#baseurl: "/reverie"
+baseurl: ""
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
