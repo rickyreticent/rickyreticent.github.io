@@ -1,6 +1,6 @@
 ---
 title: Introducing Reverie - A ridiculously elegant Jekyll theme
-date: 2019-02-13 00:00:00 Z
+date: 2019-02-13 07:00:00 +07:00
 categories:
 - Jekyll
 layout: post
