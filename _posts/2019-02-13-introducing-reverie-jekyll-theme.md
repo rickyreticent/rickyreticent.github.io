@@ -96,6 +96,13 @@ MIT
 
 Contoh Buat Tabel
 
+| Table heading | Table heading | Table heading |
+| ------------- | ------------- | ------------- |
+| Table cell    | Table cell    | Table cell    |
+| Table cell    | Table cell    | Table cell    |
+| Table cell    | Table cell    | Table cell    |
+| Table cell    | Table cell    | Table cell    |
+
 | Tabel 1 | Tabel 2 |
 | ------- | ------- |
 | konten  | Konten  |
