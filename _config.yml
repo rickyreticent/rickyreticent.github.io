@@ -29,12 +29,9 @@ footer-links:
   playconsole: 
 disqus: 
 google_analytics: 
-#url: http://www.amitmerchant.com/reverie
 url: http://rickyreticent.github.io
-#enforce_ssl: https://www.amitmerchant.com/reverie
 enforce_ssl: https://rickyreticent.github.io
-#baseurl: "/reverie"
-baseurl: ""
+baseurl: ''
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
