@@ -97,5 +97,5 @@ MIT
 Contoh Buat Tabel
 |Tabel 1|Tabel 2|
 |-------|-------|
-|kontennya 1|Kontennya 2|
-|k1|k2|
+|konten |Konten |
+|k1     |k2     |
