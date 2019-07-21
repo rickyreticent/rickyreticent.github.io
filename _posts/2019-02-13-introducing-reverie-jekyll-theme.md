@@ -95,7 +95,8 @@ The generated sitemap of your blog can be found at [https://yourgithubusername.g
 MIT
 
 Contoh Buat Tabel
-|Tabel 1|Tabel 2|
-|-------|-------|
-|konten |Konten |
-|k1     |k2     |
+
+| Tabel 1 | Tabel 2 |
+| ------- | ------- |
+| konten  | Konten  |
+| k1      | k2      |
