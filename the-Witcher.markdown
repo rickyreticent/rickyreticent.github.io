@@ -7,4 +7,3 @@ layout: page
 ---
 
 Season 1
-> Seaon 1
